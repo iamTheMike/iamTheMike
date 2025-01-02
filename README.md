@@ -15,6 +15,8 @@ Although I have no prior experience in this field, I am committed to practicing 
 </p>
 
 
-
+## My Respositories
+- PJ : My personal project
+- STD : This repository contains my coding practice
 
 
