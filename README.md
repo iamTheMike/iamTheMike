@@ -21,7 +21,7 @@ Link: https://pj02-mern-client.onrender.com/home
 (Deployed on Render.com. This is a blog application. Please note that the login and blog pages may take some time to load as the server starts up from its sleep state, due to Render's free server policy. )
 
 ## 2.PROJECT By MERN Stack 
->>>Development Phase<<<<
+###Development Phase
 (on : PJ03_MERN-InventoryManagementSystem)
 
 ## My Respositories
