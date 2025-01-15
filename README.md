@@ -6,6 +6,7 @@
 I have a background as a Control & Instrumentation Engineer and have transitioned into the field of development.
 Although I have no prior experience in this field, I am committed to practicing coding and studying relevant technologies. I am currently looking for a position that will help me gain practical experience and further my growth as a developer."
 
+1. First Project ;)
 PROJECT By MERN Stack : https://pj02-mern-client.onrender.com/home   
 (Deployed on Render.com. This is a blog application. Please note that the login and blog pages may take some time to load as the server starts up from its sleep state, due to Render's free server policy. )
 
@@ -17,6 +18,11 @@ PROJECT By MERN Stack : https://pj02-mern-client.onrender.com/home
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamTheMike&layout=compact"/></a>
 </p>
 
+
+1.PROJECT By MERN Stack : https://pj02-mern-client.onrender.com/home   
+(Deployed on Render.com. This is a blog application. Please note that the login and blog pages may take some time to load as the server starts up from its sleep state, due to Render's free server policy. )
+
+2.PROJECT By MERN Stack :>>>Development Phase<<<<
 
 ## My Respositories
 - PJ : My personal project
